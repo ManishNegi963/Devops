@@ -1,2 +1,2 @@
-“This is first feature of our application” written inside. This should be in a branch coming from master
+This is the bug fix in development branch
 
